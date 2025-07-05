@@ -10,7 +10,7 @@ Hi! Welcome on PCalculator. This program calcul your level and blackhole you wil
 To install PCalculator you need to clone the repository in your 'home' directory.
 
 ```bash
-cd && git clone https://github.com/0Slaye/pcalculator.git
+cd && git clone https://github.com/slqye/pcalculator.git
 ```
 Next you can add pcalculator as an alias in your '.bashrc' or any 'rc' file (the file to execute is main.py).
 
